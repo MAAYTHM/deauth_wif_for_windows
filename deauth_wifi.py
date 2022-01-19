@@ -1,4 +1,4 @@
-# Summary - It simply sends ∞ deauth packets to wifi becoz of which any device cannot able to connect to that wifi
+# Summary - It simply sends ∞ deauth packets to victim becoz of which any device cannot able to connect to that wifi
 
 # Module Requirements :-
     # scapy
