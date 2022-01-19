@@ -30,9 +30,10 @@ optional arguments:
 Additional Information :
     * It is Python3 tool.
     * If you want to use any option other than '-C' then it is preferred that Run the program with 'Admin shell/privilege'.
-    * Give value to an options in double quotes, like - 'python deauth_wifi.py -i "Wi-Fi" -l'.
+    * Give value to options in double quotes, like - 'python deauth_wifi.py -i "Wi-Fi" -l'.
+    * After pressing 'Ctrl+C', while listing SSID's , please wait 1-2 sec.
 
 example usage :
      python deauth_wifi.py
-     python deauth_wifi.py -i "Wi-Fi" -l
+     python deauth_wifi.py -i "Wi-Fi" -
 ```
