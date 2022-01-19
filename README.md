@@ -3,6 +3,9 @@ A Python3 tool, which simply sends ∞ deauth packets to wifi becoz of which vic
 
 **`Tool is in Development`**
 
+**Only '`-i`', '`-l`', '`-C`' options are working now**
+
+
 ### help menu :-
 ```python
 usage: deauth_wifi.py [-h] [-i INTERFACE] [-c COUNT] [-b BSSID] [-l]
