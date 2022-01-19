@@ -1,0 +1,9 @@
+scapy
+subprocess
+re
+argparse
+sys
+columnar
+Jinja2
+os
+ctypes
