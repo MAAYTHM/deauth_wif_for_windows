@@ -1,10 +1,12 @@
 # deauth_wifi
 A Python3 tool, which simply sends ∞ deauth packets to victim becoz of which victim device cannot able to connect to wifi
 
+# Requirements :-
+- Python >= 3.7
+
 **`Tool is in Development`**
 
 **Only '`-i`', '`-l`', '`-C`' options are working now**
-
 
 ### help menu :-
 ```python
